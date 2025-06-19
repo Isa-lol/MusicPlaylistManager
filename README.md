@@ -5,6 +5,7 @@
 **Student:** Isa Ismail
 **Student Number:** st10495715
 **GitHub Repo:** [https://github.com/Isa-lol/MusicPlayListManager](https://github.com/Isa-lol/MusicPlayListManager)
+![image](https://github.com/user-attachments/assets/fd8d9249-9dd0-4b66-a45a-b5a8c2eb4426)
 
 
 ## Overview
