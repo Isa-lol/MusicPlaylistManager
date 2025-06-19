@@ -6,7 +6,6 @@
 **Student Number:** st10495715
 **GitHub Repo:**
 [https://github.com/Isa-lol/MusicPlayListManager](https://github.com/Isa-lol/MusicPlayListManager)
-![image](https://github.com/user-attachments/assets/fd8d9249-9dd0-4b66-a45a-b5a8c2eb4426)
 
 
 ## Overview
@@ -31,7 +30,7 @@ The app demonstrates the use of:
 ✅ Clean and user-friendly UI
 ✅ Runs smoothly on Android Emulator
 
-
+![image](https://github.com/user-attachments/assets/fd8d9249-9dd0-4b66-a45a-b5a8c2eb4426)
 ![image](https://github.com/user-attachments/assets/33b25653-9a3d-43b8-8a35-86ec7e0c0977)
 
 
@@ -47,7 +46,6 @@ git clone https://github.com/Isa-lol/MusicPlayListManager.git
 
 3️⃣ Run on emulator (Pixel 7 API 30 or similar)
 
----
 
 ## Notes
 
@@ -55,14 +53,11 @@ git clone https://github.com/Isa-lol/MusicPlayListManager.git
 ✅ Screenshots are included in `/images` folder
 ✅ No zip files — clean GitHub repository
 
----
 
 ## References
 
 * [Android Developers - Kotlin](https://developer.android.com/kotlin)
 
-
----
 
 Ready for Practicum Submission
 Created by Isa Ismail (st10495715) 🚀
